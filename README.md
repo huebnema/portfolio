@@ -1,3 +1,3 @@
-# huebner-lindquist-wedding
+Madison Huebner
 
-This is the website for my wedding.
+This is my portfolio site. To view, go to www.madisonhuebner.com
