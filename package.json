@@ -1,0 +1,23 @@
+{
+  "name": "huebner-lindquist-wedding",
+  "version": "1.0.0",
+  "description": "This is the website for my wedding.",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huebnema/huebner-lindquist-wedding.git"
+  },
+  "author": "Maddie Huebner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huebnema/huebner-lindquist-wedding/issues"
+  },
+  "homepage": "https://github.com/huebnema/huebner-lindquist-wedding#readme"
+}
